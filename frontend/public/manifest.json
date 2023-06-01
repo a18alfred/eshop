@@ -1,0 +1,26 @@
+{
+    "short_name": "Продсервис",
+    "name": "Продсервис",
+    "description": "Продсервис - ингредиенты для хлебопекарной и кондитерских промышленности.",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "icons": [
+        {
+            "src": "/logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/logo256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
