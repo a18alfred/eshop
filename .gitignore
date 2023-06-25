@@ -10,8 +10,6 @@
 
 # environment
 .env
-.env.*
-!.env.example
 
 # error and debug logs
 npm-debug.log*
